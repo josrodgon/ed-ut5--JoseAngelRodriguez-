@@ -9,6 +9,8 @@ public class CuadradoApp {
         cuadrado(lado);
 
     }
+    //SI SEÑOR, UNA A FUNCIONES, CON UN FOR PARA DIBUJAR UN CUADRADO. SEÑOR, ESTOY IMPRESIONADO
+
     public static void cuadrado (int lado){
         int numeroasteriscos=lado;
 
